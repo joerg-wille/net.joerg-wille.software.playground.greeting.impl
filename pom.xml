@@ -19,7 +19,7 @@
 
 	<properties>
                 <!-- Project Dependecies Version Overwrite -->
-                <greeting.api.version>${project.version}</greeting.api.version>
+                <!--greeting.api.version>${project.version}</greeting.api.version-->
 	</properties>
 
 	<dependencies>
